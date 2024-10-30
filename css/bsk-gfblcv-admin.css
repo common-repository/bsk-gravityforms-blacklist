@@ -1,0 +1,396 @@
+
+.bsk-gfblcv-error-message{
+    color: #FF0000;
+}
+
+.bsk-gfblcv-admin-label{
+	display: inline-block;
+	width: 220px;
+}
+
+.bsk-gfblcv-edit-list-container{
+	margin-top:40px !important;
+}
+
+.bsk-gfblcv-add-item-input,
+.bsk-gfblcv-add-list-input{
+	display: inline-block;
+	width: 65% !important;
+}
+
+.bsk-gfblcv-action-anchor{
+	margin-left: 10px;
+    padding: 4px 8px;
+    text-decoration: none;
+    border: none;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background: #f7f7f7;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: normal;
+    color: #0073aa;
+    cursor: pointer;
+    outline: 0;
+}
+
+.bsk-gfblcv-action-anchor-first{
+	margin-left: 0px;
+}
+
+.bsk-gfblcv-edit-list-container,
+.bsk-gfblcv-edit-item-container{
+	border: 1px solid #DFDFDF; 
+	margin: 4px 15px 0 0; 
+	padding: 20px; 
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.bsk_gfblcv_gravity_form_seciton_field{
+	font-size: 1.3em;
+	display: block;
+    font-weight: 600;
+	width:100%;
+	color: #23282d;
+	padding: 10px 0 15px 0;
+	border-bottom:1px solid #23282d;
+}
+
+.bsk-gfblcv-form-list-type-lists-selector{
+	width: 85%;
+}
+
+.bsk-gfblcv-comparison-selects-container{
+    vertical-align: top;
+}
+
+.bsk-gfblcv-form-list-type-selector-ajax-loader-span,
+.bsk-gfblcv-apply-to-form-list-save-ajax-loader-span{
+	margin-left:10px;
+	display:none;
+}
+
+.bsk-prdoucts {
+	-webkit-box-shadow:  -1px 1px 2px -2px rgba(0, 0, 0, 0.5);
+	box-shadow:  -1px 1px 2px -2px rgba(0, 0, 0, 0.5);
+	overflow: hidden;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	padding: 20px 20px;
+	border: 1px solid #DFDFDF;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.bsk-prdoucts-single{
+	width: 31%;
+	padding: 10px;
+	-webkit-box-shadow:  -1px 1px 2px -2px rgba(0, 0, 0, 0.5);
+	box-shadow:  -1px 1px 6px -2px rgba(0, 0, 0, 0.5);
+	background:#FFFFFF;
+	overflow: hidden;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.bsk-prdoucts-single h3,
+.bsk-prdoucts-single-center{
+	text-align:center;
+}
+
+.bsk-prdoucts-single-link-button{
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+
+
+/* Items Search */
+.bsk-gfblcv-edit-item-container .search-box{
+    width: 40%;
+}
+
+
+#search-submit{
+    float: right;
+}
+#bsk-gfblcv-items-serch-search-input{
+    width: 85%;
+}
+
+.bsk_gfblcv_field_single_input_container .bsk-gfbl-list{
+    max-width: 100%;
+}
+
+.bsk-gfblcv-tips-box {
+    font-size: 12px;
+    border: 1px solid #00abff;
+    display: block;
+    padding: 5px;
+	margin: 10px 0 10px 0;
+    background: #e5f3f9;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.bsk-gfblcv-tips-box a{
+	text-decoration: none;
+	color: #ff5b00 !important;
+}
+
+/*
+* Entries
+*/
+.bsk-gfbl-entries-filter-select{
+    width: 300px;    
+}
+
+.bsk-gfblcv-entries .column-id{
+    width: 3%;
+}
+.bsk-gfblcv-entries .column-form_plugin{
+    width: 7%;
+}
+.bsk-gfblcv-entries .column-form_title{
+    width: 12%;
+}
+
+.bsk-gfblcv-entries .column-form_data{
+    width: 68%;
+}
+
+.bsk-gfblcv-entries .column-date{
+    width: 10%;
+}
+
+.bsk-gfblcv-entry-form-data-container th,
+.bsk-gfblcv-entry-form-data-container label{
+    font-weight: bold;
+}
+
+.bsk-gfblcv-column-ID{
+    width: 5%;
+}
+
+.bsk-gfblcv-column-label{
+    width: 25%;
+}
+.bsk-gfblcv-column-value{
+    width: 35%;
+}
+
+.bsk-gfblcv-entry-blocked-keyword{
+    color: #ff5b00;
+}
+
+/*
+ * Settings
+ */
+
+.bsk-gfblcv-administrator-mails-details-container{
+    width: 75%;
+    padding: 20px;
+    min-height: 370px;
+    background-color: #F6FBFD;
+    border: 1px solid #E1E1E1
+}
+
+.bsk-gfblcv-administrator-mails-details-container label{
+    width: 150px;
+    display: inline-block;
+}
+
+.bsk-gfblcv-administrator-mails-input{
+    width: 410px;
+}
+
+.bsk-gfblcv-form-settings-actions-desc{
+    font-size: 0.8em;
+}
+
+#bsk_gfblcv_setings_tab_content_wrap_ID{
+	padding:22px;
+	background: #fff;
+	border:1px solid #ccc;
+	border-top:0px;
+}
+
+#bsk_gfblcv_setings_tab_content_wrap_ID section{
+	display: none;
+}
+
+#bsk_gfblcv_setings_tab_content_wrap_ID section:first-child{
+	display: block;
+}
+
+.no-js h2.nav-tab-wrapper {
+	display:none;
+}
+
+.no-js #bsk_gfblcv_setings_tab_content_wrap_ID,
+.no-js #bsk_gfblcv_help_tab_content_wrap_ID{
+	border-top:1px solid #ccc;
+	margin-top:22px;
+}
+
+.no-js #bsk_gfblcv_setings_tab_content_wrap_ID section{
+	border-top: 1px dashed #aaa;
+	margin-top:22px;
+	padding-top:22px;
+}
+
+.no-js #bsk_gfblcv_setings_tab_content_wrap_ID section:first-child{
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+
+/*
+ * Gravity Forms Form Settings
+*/
+.bsk-gfblcv-form-settings-container h4{
+    font-size: 1.3em;
+}
+
+.bsk-gfblcv-form-settings-actions-container,
+.bsk-gfblcv-form-settings-blocked-data-container,
+.bsk-gfblcv-form-settings-error-messages-container{
+    margin-top: 40px;
+}
+
+.bsk-gfblcv-form-settings-label{
+    display: inline-block !important; 
+    width: 200px !important;
+}
+
+.bsk-gfblcv-form-settings-error-message-label{
+    display: inline-block !important; 
+    width: 120px !important;
+}
+
+.bsk-gfblvc-form-settings-input-width{
+    width: 350px !important;
+    display: inline-block !important;
+}
+
+.bsk-gfblcv-form-settings-enable-disable-container label,
+.bsk-gfblcv-form-settings-option-tr label {
+    display: inline-block !important; 
+}
+
+/*
+ * WPForms settings
+ */
+
+.wpforms-field-option-advanced-bskblacklist {
+    padding: 20px 0 20px 0;
+}
+
+.wpforms-field-option-advanced-bskblacklist-inline{
+    display: inline-block !important;
+    font-weight: 400 !important;
+    margin: 0 0 0 0 !important;
+}
+
+.wpforms-bskblacklist-field-apply-list,
+.wpforms-bskblacklist-field-apply-comparison{
+    width: 100%;
+}
+
+.bsk-gfblcv-wpforms-general-settings {
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.bsk-gfblcv-wpforms-general-settings .wpforms-panel-field-radio-container .row{
+    display: inline-block !important;
+    width: 250px !important;
+    float: left !important;
+    clear: unset !important;
+}
+
+.bsk-gfblcv-wpforms-actions{
+    display: inline-block !important;
+    width: 250px !important;
+    float: left !important;
+    clear: unset !important;
+}
+
+.bsk-gfblcv-wpforms-save-blocked-data-label,
+.bsk-gfblcv-wpforms-notify-administrator-label,
+.bsk-gfblcv-wpforms-notify-administrator-recipient-label,
+.bsk-gfblcv-wpforms-error-message-label{
+    display: inline-block !important;
+    width: 250px !important;
+    float: left !important;
+    clear: unset !important;
+}
+
+.bsk-gfblcv-wpforms-save-blocked-data-settings,
+.bsk-gfblcv-wpforms-notify-administrator-settings,
+.bsk-gfblcv-form-settings-notify-administrator-recipient,
+.bsk-gfblcv-wpforms-error-message{
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.bsk-gfblcv-wpforms-save-blocked-data-settings .wpforms-panel-field-radio-container .row,
+.bsk-gfblcv-wpforms-notify-administrator-settings .wpforms-panel-field-radio-container .row{
+    display: inline-block !important;
+    width: 250px !important;
+    float: left !important;
+    clear: unset !important;
+}
+
+.bsk-gfblcv-wpforms-error-message-input{
+    display: inline-block !important;
+    width: 350px !important;
+    float: left !important;
+    clear: unset !important;
+}
+
+.wpforms-field-option-row-bskblacklist-multiple-selects th,
+.wpforms-field-option-row-bskblacklist-multiple-validaiton-message th{
+    text-align: left;
+}
+
+.wpforms-bskblacklist-multiple-list-type,
+.wpforms-bskblacklist-multiple-list-id,
+.wpforms-bskblacklist-multiple-list-comparison,
+.wpforms-bskblacklist-multiple-list-action{
+    width: 80%;
+}
+
+.wpforms-bskblacklist-multiple-list-type-ajax-loader,
+.wpforms-bskblacklist-multiple-selects-error-message{
+    display: none;
+}
+
+.wpforms-bskblacklist-multiple-selects-error-message{
+    color: #FF0000;
+}
+
+.bsk-gfblcv-wpforms-validation-message-desc{
+    font-size: 11px;
+    color: #999;
+    text-decoration: none;
+}
+    
+/*
+ * CF7 
+ *
+ */
+
+ .bsk-gfblcv-cf7-mapping-list-id-select,
+ .bsk-gfblcv-cf7-mapping-comparison,
+ .bsk-gfblcv-cf7-mapping-action,
+ .bsk-gfblcv-cf7-mapping-action-for-invit {
+     width: 90%;
+ }
+ 
+ .bsk-gfblcv-cf7-validation-messages-input{
+     width: 450px;
+ }
